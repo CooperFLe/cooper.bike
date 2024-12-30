@@ -1,0 +1,36 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Cooper",
+	"icon": "https://micro.blog/cooperbike/avatar.jpg",
+	"home_page_url": "https://cooper.bike/",
+	"feed_url": "https://cooper.bike/feed.json",
+	"items": [
+		
+			{
+				"id": "http://tricooper.micro.blog/2024/12/24/141416.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<img src=\"uploads/2024/6c2d4c233e50486093d11d6599fbcb99.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-12-24T14:14:16-06:00",
+				"url": "https://cooper.bike/2024/12/24/141416.html"
+			},
+			{
+				"id": "http://tricooper.micro.blog/2024/12/22/week-of-training.html",
+				"title": "Week 1 of Training",
+				"content_html": "<p>First week of training down. Completed all the workouts, the yellow swim doesn&rsquo;t count. My training plan has the total time at the pool as the target duration while my watch only uploads total time swimming for swim workouts.</p>\n<p>Still feeling extremely sore from the strength session on Wednesday. We hit legs, and we hit them hard. Luckily, it didn&rsquo;t have any impact on completing the work outs for the rest of the week.</p>\n<p>In no way do I expect to have perfect weeks for the entirety of the 18 week build, but this is a great starting point to build off of up to IMTX in April!</p>\n<h2 id=\"looking-forward\">Looking Forward</h2>\n<p>Next week is going to be hellish. There is no way around it. Test week. Includes a 1000yd and 100yd swim time trial, two cycling power tests, some 5k time trials, and then another 10x100yd test swim. It won&rsquo;t be fun, but it&rsquo;ll set up my zones for the build and give me something to compare progress against.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "First week of training down. Completed all the workouts, the yellow swim doesn't count. My training plan has the total time at the pool as the target duration while my watch only uploads total time swimming for swim workouts. \r\n\r\nStill feeling extremely sore from the strength session on Wednesday. We hit legs, and we hit them hard. Luckily, it didn't have any impact on completing the work outs for the rest of the week. \r\n\r\nIn no way do I expect to have perfect weeks for the entirety of the 18 week build, but this is a great starting point to build off of up to IMTX in April!\r\n\r\n## Looking Forward\r\n\r\nNext week is going to be hellish. There is no way around it. Test week. Includes a 1000yd and 100yd swim time trial, two cycling power tests, some 5k time trials, and then another 10x100yd test swim. It won't be fun, but it'll set up my zones for the build and give me something to compare progress against.\n\n<img src=\"uploads/2024/screenshot-2024-12-22-at-3.00.46pm.png\" width=\"600\" height=\"220\" alt=\"\">\n",
+				"date_published": "2024-12-22T15:05:10-06:00",
+				"url": "https://cooper.bike/2024/12/22/week-of-training.html",
+				"tags": ["triathlon"]
+			},
+			{
+				"id": "http://tricooper.micro.blog/2024/12/21/i-took-half.html",
+				"title": "2024 TrainingPeaks Review",
+				"content_html": "<p>I took half a year off there due to illness, injury, and lack of motivation. But here is to a strong 2025!</p>\n<h1 id=\"top-goals\">Top goals:</h1>\n<ol>\n<li>Complete Ironman Texas in April</li>\n<li>Convince two people to do a triathlon for the first  time</li>\n<li>Kick butt and take names</li>\n</ol>\n<p>May John Couch lead me to greatness 🙏</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "I took half a year off there due to illness, injury, and lack of motivation. But here is to a strong 2025!\n\n# Top goals:\n\n1. Complete Ironman Texas in April\n2. Convince two people to do a triathlon for the first  time\n3. Kick butt and take names\n\nMay John Couch lead me to greatness 🙏 \n\n<img src=\"uploads/2024/image.png\" width=\"275\" height=\"600\" alt=\"\"><img src=\"uploads/2024/2dd6e14b22.png\" width=\"275\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-12-21T11:44:16-06:00",
+				"url": "https://cooper.bike/2024/12/21/i-took-half.html",
+				"tags": ["triathlon"]
+			}
+	]
+}
